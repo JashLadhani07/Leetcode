@@ -1,2 +1,2 @@
 # Leetcode
-These are all the leetcode questions solved by me.
+These are all the leetcode questions solved by me
